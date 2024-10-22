@@ -85,7 +85,9 @@ print(res2)
 
 ## Output :
 res
+<br>
 ![ai21](https://github.com/user-attachments/assets/2c5400da-1fe2-4195-ac81-9edf0822dc3e)
+<br>
 res2
 ![ai22](https://github.com/user-attachments/assets/9a7f574e-bdf4-4b59-ba9e-cbbcc38ef709)
 
